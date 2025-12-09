@@ -196,18 +196,4 @@ feat(task-4): add feature importance analysis
 * [Random Forest Algorithm](https://builtin.com/data-science/random-forest-algorithm)
 * [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
 
----
 
-## Authors
-
-* **Kerod, Mahbubah, Filimon** — ACIS Data Analytics Team
-* **Mikiyas** — Project Implementation & Modeling
-
----
-
-## License
-
-MIT License. See `LICENSE` file for details.
-
-Do you want me to do that?
-```
